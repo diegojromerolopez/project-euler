@@ -2,9 +2,6 @@
 # -*- coding: utf-8 -*-
 from __future__ import unicode_literals, print_function
 import sys
-from math import sqrt
-
-import copy
 
 
 def get_factors(number):
